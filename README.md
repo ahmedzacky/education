@@ -1,2 +1,2 @@
-# education
-education and some experimental stuff
+# Education
+Education, self learning and some experimental stuff
